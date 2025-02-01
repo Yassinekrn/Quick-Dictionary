@@ -1,6 +1,6 @@
-# Quick Dictionary Extension 🚀📖
+# Quick Dictionary Extension 📚🔍
 
-![Extension Icon](Dictionary-128.png)
+![Extension Icon](icons/Dictionary-128.png)
 
 > A modern, reliable, and user-friendly browser extension that brings dictionary definitions to your fingertips with just a double-click! 💡✨
 
